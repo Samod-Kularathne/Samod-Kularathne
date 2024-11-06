@@ -39,7 +39,7 @@ Here are some of the projects I've worked on:
 
 - **Symphony(https://github.com/yourusername/project1)**: centralized platform for musicians and service providers to rent or hire instruments or services. We used HTML, CSS, JavaScript for the front end development and PHP alongside MySQL for the back end development. We used jQuery and AJAX for some functionalities
 - **SafeCeylon(https://github.com/yourusername/project2)**: a disaster management platform including disaster and weather alerts, predictions. We are using NEXT.js for webapp front end and React Native and EXPO for mobile app front end. Spring Boot for the back end and NEON PostrSQL for the database
-- **youHost(https://github.com/yourusername/project3)**: This is a tournament management system that i am currently working on. 
+- **ZAP(https://github.com/yourusername/project3)**: This is a vlog app that i am currently working on. 
 
 ## 📫 Let's Connect!
 
