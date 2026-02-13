@@ -1,51 +1,15 @@
-# Hi there, I'm Samod! 👋
+# 💫 About Me:
+# 👋 Hi, I'm Samod<br><br>## 🧠 AI Engineer | Intelligent Systems Builder<br><br>I design and build AI-powered systems that solve real-world problems.<br><br>From LLM-driven assistants and multi-agent workflows  <br>to enterprise-grade automation and backend architectures —  <br>I focus on turning intelligence into production-ready systems.<br><br>---<br><br>## 🚀 What I Do<br><br>- 🤖 Build AI Agents & Conversational Systems<br>- 🧠 Design LLM Integrations & Prompt Architectures<br>- 🔄 Develop Automation & Multi-Agent Workflows<br>- 🔗 Engineer Enterprise Integrations (SAP CPI, APIs)<br>- 🌐 Build Scalable Full-Stack Applications<br><br>---<br><br>## 🛠 AI Stack<br><br>**Core AI**<br>- LLM Integrations<br>- AI Agents<br>- Prompt Engineering<br>- Conversational AI<br>- Workflow Automation<br><br>---<br><br>## 📌 Current Focus<br><br>- Multi-agent orchestration systems  <br>- AI-powered automation pipelines  <br>- Production-ready conversational AI  <br>- Intelligent enterprise integrations  <br><br>---<br><br>## 🎯 Philosophy<br><br>AI is not just about models.  <br>It’s about systems, architecture, and real-world deployment.<br><br>I build AI that works.<br><br>---<br><br>## 📫 Let's Connect<br><br>Open to collaborations on AI systems, automation platforms, and intelligent applications.<br><br>
 
-![Header Image](https://github.com/Samod-Kularathne/Samod-Kularathne/blob/main/github-header-image%20(1).png)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Samod-Kularathne&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Samod-Kularathne&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samod-Kularathne&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I'm a passionate Full-Stack Developer with experience in building web and mobile applications. I enjoy working on both the front-end and back-end, creating seamless and efficient user experiences.
-
-## 🚀 Skills
-
-### Front-End
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-</p>
-
-### Back-End
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="Spring Boot" width="40" height="40"/>
-</p>
-
-### Databases
-
-<p align="left">
-  <img src="https://media.giphy.com/media/hu6p6b7Z05t0C/giphy.gif" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif" alt="PostgreSQL" width="40" height="40"/>
-</p>
-
-## 🌱 What I'm Learning
-- Currently learning mongoDB and node.js.
-
-## 🛠️ Projects
-
-Here are some of the projects I've worked on:
-
-- **Symphony(https://github.com/yourusername/project1)**: centralized platform for musicians and service providers to rent or hire instruments or services. We used HTML, CSS, JavaScript for the front end development and PHP alongside MySQL for the back end development. We used jQuery and AJAX for some functionalities
-- **SafeCeylon(https://github.com/SafeCeylon)**: a disaster management platform including disaster and weather alerts, predictions. We are using NEXT.js for webapp front end and React Native and EXPO for mobile app front end. Spring Boot for the back end and NEON PostrSQL for the database
-- **ZAP(https://github.com/Samod-Kularathne/ZAP)**: This is a Blog app that i am currently working on. 
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samod-kularathne-26373b322/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey?style=for-the-badge&logo=github)](https://github.com/Samod-Kularathne)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Samod-Kularathne&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Footer Image](https://github.com/Samod-Kularathne/Samod-Kularathne/blob/main/github-header-image%20(3).png)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
